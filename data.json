@@ -1,0 +1,26 @@
+
+{
+   "data": [
+       {
+           "name": "Revital",
+           "event": "Meet a friend"
+           
+           
+       },
+       {
+           "name": "Ofir",
+           "event": "Go to a party"
+          
+       },
+       {
+           "name": "Rom",
+           "event": "A Dance Lesson" 
+           
+       },
+       {
+           "name": "Or",
+           "event": "Eat launch"
+           
+       }
+   ]
+}
